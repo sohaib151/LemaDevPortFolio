@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LemaDevPortFolio/static/css/main.330d5ddf.css",
+    "main.js": "/LemaDevPortFolio/static/js/main.a99a9aa2.js",
+    "static/media/me.jpg": "/LemaDevPortFolio/static/media/me.5863474e4a6f3eb07f8c.jpg",
+    "static/media/address.png": "/LemaDevPortFolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/LemaDevPortFolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/LemaDevPortFolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/LemaDevPortFolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/LemaDevPortFolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/LemaDevPortFolio/index.html",
+    "main.330d5ddf.css.map": "/LemaDevPortFolio/static/css/main.330d5ddf.css.map",
+    "main.a99a9aa2.js.map": "/LemaDevPortFolio/static/js/main.a99a9aa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.330d5ddf.css",
+    "static/js/main.a99a9aa2.js"
+  ]
+}
